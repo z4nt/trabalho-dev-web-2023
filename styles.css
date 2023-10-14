@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(20, 20, 20);
+    box-sizing: border-box;
+    
+}
+.logo{
+    margin: 0 auto;
+    margin-bottom: 7%;
+    margin-top: 5%;
+    margin-right:32% ;
+}
+
+.img{
+    max-width:100px;
+    max-height:100px;
+   
+    margin-top: 2%;
+    border-radius: 10px;
+    
+}
+
+.p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 1%;
+}
+
+.input{
+    
+    text-align: center;
+}
+
+#rodape{
+    
+   margin-top: 4rem !important;
+}
+
+.logos{
+   display: flex !important;
+   justify-content: center;
+    
+}
+
+.section{
+    width: 50%;
+}
+
+
+.container{
+    color: rgb(255, 255, 255) !important;
+    margin-top: 12rem !important;
+}
+
+#section-img img{
+    max-width:100px;
+    max-height:100px;
+   
+    margin: 0.5rem;
+    border-radius: 50%;
+}
+
+.input-1{
+    width: 150px;
+    margin: 10px;
+}
+
+.input-2{
+    width: 150px;
+    margin: 10px;
+}
+
+.btn{
+    height: 70%;
+}
+
+#container-h{
+    margin-top: 0 !important;
+}
+
+#bottom{
+    margin-bottom: 16rem;
+}
+
+#logord{
+    max-width:50px;
+    max-height:50px;
+    border-radius: 50%;
+
+}
+
+#container-rd{
+    font-size: 13px;
+    margin-bottom: 1rem;
+}
+
